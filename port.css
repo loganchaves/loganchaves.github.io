@@ -1,0 +1,56 @@
+
+body{
+    font-family: 'ZCOOL XiaoWei', serif;
+    color: black
+}
+.wrapper{
+    background-image: url('real.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%
+}
+.navbar{
+    background-image: url('barnside.jpg');
+    background-size: cover;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.things{
+    background-image:url('WOOD3.jpeg');
+    padding: 5% ;
+    border-radius: 15px;
+    width:247px;
+    height:570px;
+    margin-bottom: 20px;
+    margin-right:30px
+}
+.footer{
+    background-image: url('barnside.jpg');
+    position: absolute;
+    width: 100%; 
+    background-size: cover;
+    text-align: left
+}
+.contact{
+    border-radius: 15px;
+    margin-left:50px; 
+    width:247px;
+    height:570px;
+    margin-bottom: 20px;
+    background-image:url('WOOD3.jpeg');
+    
+
+}
+.resume{
+    margin-right:500px;
+    margin-left: 20px;
+}
+.about{
+    background-image: url('WOOD3.jpeg');
+    background-size: cover ;
+    color:black;
+    margin-bottom: 150px;
+    border-radius: 15px
+
+}
