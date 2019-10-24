@@ -47,7 +47,7 @@ body{
     margin-left: 20px;
 }
 .about{
-    background-image: url('WOOD3.jpeg');
+    background-color: rgb(231, 230, 230);
     background-size: cover ;
     color:black;
     margin-bottom: 150px;
